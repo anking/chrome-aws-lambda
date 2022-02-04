@@ -27,8 +27,8 @@
     "lambdafs": "^2.0.3"
   },
   "devDependencies": {
-    "@types/node": "^10.17.55",
-    "puppeteer-core": "^10.1.0",
+    "@types/node": "^10.17.55",,
+    "puppeteer": "github:anking/puppeteer"
     "rimraf": "^3.0.2",
     "typescript": "4.3.2"
   },
